@@ -8,7 +8,7 @@ function f() {
   $(".LoadText>span").html(widpercent).css("color",color[colortext]);
     wid++;
     if( wid <= 100 ){
-        setTimeout( f, 100 );
+        setTimeout( f, 60 );
     }
    else{  
       $(".loader").hide(600);
