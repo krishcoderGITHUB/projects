@@ -18,7 +18,7 @@ $(".LoadText").css("margin-top","300px");
       
 $("body").css("background","url('http://webneel.com/wallpaper/sites/default/files/images/08-2013/18-india-independence-day-wallpaper.preview.jpg')").delay(1000);
 $("body").css("background-size","cover");
- $("#promotion").css("display","absolute");  
+ $("#promotion").css("display","block");  
 }
 
 }
